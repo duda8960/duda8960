@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello, welcome to my Github profile!
+## Eduarda Cardoso
 
-<!--
-**duda8960/duda8960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="justify">I'm a curious and passionate Computer Science student. I'm always on the lookout for new challenges and opportunities to apply and expand my knowledge in programming, software development, and technological innovation.
+<br>
+  I'm also a big fan of hackathons, collaborative projects, and anything that involves creativity and problem-solving.</p>
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/eduarda-da-silva-cardoso/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/duda.896/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:deveduardacardoso@gmail.com)
+
+### GitHub Stats
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=duda8960&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=duda8960&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF00F6&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
+
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=duda8960&column=8&theme=dracula&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
