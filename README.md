@@ -17,11 +17,14 @@
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=duda8960&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=duda8960&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=2D2C34&title_color=21BED2&text_color=21BED2&border_radius=3&border_color=33393Cc&icon_color=FF00F6&ring_color=FF00F6&theme=midnight-purple)
+
 <!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=duda8960&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF00F6&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
 
 
-### 🏆 GitHub Profile Trophy
+<!--### 🏆 GitHub Profile Trophy
+![download20240902160700](https://github.com/user-attachments/assets/d90fa506-da31-4a07-b45c-6792f5599594)
+![download20240902160700](https://github.com/user-attachments/assets/17ce08da-813a-4d2b-9592-44bd04578de6)
 
 <p align="center">
   <a
@@ -33,5 +36,6 @@
       src="https://github-profile-trophy.vercel.app/?username=duda8960&column=8&theme=dracula&no-frame=true&no-bg=true"
     />
   </a>
-</p>
+</p> -->
+
 
