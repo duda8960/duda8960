@@ -1,7 +1,7 @@
 # 🔮 Hello! Welcome to my Github profile!
-## <img align="center" alt="Eduarda C" height="45" src="https://github.com/user-attachments/assets/9442e39b-cb62-457b-a332-bf2a4b33410e">
+## <img align="center" alt="Eduarda Cardoso" height="45" src="https://github.com/user-attachments/assets/9442e39b-cb62-457b-a332-bf2a4b33410e">
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="400" src="https://github.com/user-attachments/assets/6f2f3883-13b9-4791-802d-367e8a473fbd">
+<img align="right" alt="My avatar" height="400" src="https://github.com/user-attachments/assets/6f2f3883-13b9-4791-802d-367e8a473fbd">
 
 
 
